@@ -1,6 +1,5 @@
 """Given an array of integers, return indices of the two numbers such that they add up to a specific target"""
 
-
 """Example 
 nums = [1, 3, 11, 2, 7]
 target = 9
@@ -11,11 +10,15 @@ return : [3,4]
 9 - 2 = 7 -> {8: 0, 6: 1, -2: 2, 7: 3}
 
 nums[i], i
+index=3
 in this case its [3, 4]
 """
 
-nums = [1, 3, 11, 2, 7]
+nums = [1, 2, 11, 3, 7]
 target = 9
+
+for i in range(len(nums)):
+    print (nums[i], i)
 
 
 def two_sum(nums, target):
@@ -29,4 +32,8 @@ def two_sum(nums, target):
         else:
             aux_dict[target - nums[i]] = i
 
+
 print (two_sum(nums, target))
+
+
+
