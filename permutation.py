@@ -1,4 +1,4 @@
-""""Given two strings write a function to decide if one is a permutation of the other"""
+""""Given two strings write a function to decide if one is a permutation of the other string"""
 
 str_1 = "driving"
 str_2 = "drviign"
