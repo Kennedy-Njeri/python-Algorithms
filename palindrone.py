@@ -1,6 +1,6 @@
 """Give a string, write a function to determine if it is a palindrone"""
 
-# racecar
+# race car
 # madam
 # Dammit I'm mad.
 
