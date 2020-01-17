@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f35189b5-627a-40d7-a548-8e5b74e69e9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two-sum-problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/two-sum-problem.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,38 +12,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_algorithms$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1577178899351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithms$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1579264942854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_algorithms$unique.coverage" NAME="unique Coverage Results" MODIFIED="1577353116516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_algorithms$palindrone.coverage" NAME="palindrone Coverage Results" MODIFIED="1577178914055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_algorithms$two_sum_problem.coverage" NAME="two-sum-problem Coverage Results" MODIFIED="1577362073301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithms$palindrone.coverage" NAME="palindrone Coverage Results" MODIFIED="1578171444234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_algorithms$length_of_string.coverage" NAME="length-of string Coverage Results" MODIFIED="1579249033953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Recursion" />
+    <SUITE FILE_PATH="coverage/python_algorithms$two_sum_problem.coverage" NAME="two-sum-problem Coverage Results" MODIFIED="1579265591732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1944376853">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="4" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1334" />
+          <entry key="py" value="1928" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1334" />
+          <entry key="Python" value="1928" />
         </counts>
       </usages-collector>
     </session>
@@ -52,10 +55,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unique.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <marker date="1577175712000" expanded="true" signature="99:104" ph="..." />
+                <marker date="1577393525000" expanded="true" signature="110:115" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recursion/count-consonants.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1579246926000" expanded="true" signature="193:359" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recursion/length-of string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <marker date="1579249033000" expanded="true" signature="127:132" ph="..." />
+                <marker date="1579249033000" expanded="true" signature="229:315" ph="..." />
               </folding>
             </state>
           </provider>
@@ -64,10 +92,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/permutation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <marker date="1577178719000" expanded="true" signature="161:166" ph="..." />
+                <marker date="1579264947000" expanded="true" signature="168:173" ph="..." />
               </folding>
             </state>
           </provider>
@@ -76,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/two-sum-problem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="116">
+              <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -85,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/palindrone.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -106,10 +134,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unique.py" />
         <option value="$PROJECT_DIR$/palindrone.py" />
-        <option value="$PROJECT_DIR$/permutation.py" />
+        <option value="$PROJECT_DIR$/unique.py" />
         <option value="$PROJECT_DIR$/two-sum-problem.py" />
+        <option value="$PROJECT_DIR$/Recursion/count-consonants.py" />
+        <option value="$PROJECT_DIR$/Recursion/length-of string.py" />
+        <option value="$PROJECT_DIR$/permutation.py" />
       </list>
     </option>
   </component>
@@ -120,8 +150,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
-    <option name="y" value="23" />
+    <option name="x" value="233" />
+    <option name="y" value="58" />
     <option name="width" value="1371" />
     <option name="height" value="815" />
   </component>
@@ -163,6 +193,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.two-sum-problem">
+    <configuration name="length-of string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/length-of string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="palindrone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,13 +308,15 @@
       <item itemvalue="Python.permutation" />
       <item itemvalue="Python.palindrone" />
       <item itemvalue="Python.two-sum-problem" />
+      <item itemvalue="Python.length-of string" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.two-sum-problem" />
-        <item itemvalue="Python.unique" />
-        <item itemvalue="Python.palindrone" />
         <item itemvalue="Python.permutation" />
+        <item itemvalue="Python.length-of string" />
+        <item itemvalue="Python.palindrone" />
+        <item itemvalue="Python.unique" />
       </list>
     </recent_temporary>
   </component>
@@ -280,10 +334,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="23" width="1371" height="815" extended-state="0" />
-    <editor active="true" />
+    <frame x="233" y="58" width="1371" height="815" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535741" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26109856" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,35 +368,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/palindrone.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unique.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <marker date="1577175712000" expanded="true" signature="99:104" ph="..." />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/permutation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
-            <marker date="1577178719000" expanded="true" signature="161:166" ph="..." />
+            <marker date="1579264947000" expanded="true" signature="168:173" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/length-of string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1579249033000" expanded="true" signature="127:132" ph="..." />
+            <marker date="1579249033000" expanded="true" signature="229:315" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recursion/count-consonants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1579246926000" expanded="true" signature="193:359" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unique.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1577393525000" expanded="true" signature="110:115" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/two-sum-problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="116">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
